@@ -1,4 +1,5 @@
-📈 Stock Market Trend Prediction
+📈 Stock Market Trend Prediction....
+
 📌 Overview
 This project uses deep learning (LSTM) to analyze and predict stock market trends using historical time-series data. The objective is to help investors make informed decisions based on past performance and trend patterns.
 
